@@ -1,2 +1,2 @@
 # ArdunioCar
-Code for a Arduino car powered by 2 steppers; more on that soon
+Code for a Arduino house that displays a message when a car comes and delivers a package 
